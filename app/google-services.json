@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "448002872241",
+    "firebase_url": "https://SpeedMathChallenge-49040.firebaseio.com",
+    "project_id": "SpeedMathChallenge-49040",
+    "storage_bucket": "SpeedMathChallenge-49040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448002872241:android:77d09b7bd3152b5d",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.speedmathchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448002872241-86526t1sbsoqna5t64qopn3r7tdgarim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.speedmathchallenge",
+            "certificate_hash": "1fd47c310ad77375b33a8748cb3a3991c9cdb0bb"
+          }
+        },
+        {
+          "client_id": "448002872241-2371d35kvrbvapqpg2ku1vn1jk2giap8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2Qej2sjFV7zqRwezzQDs01UOfR-NvNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448002872241-2371d35kvrbvapqpg2ku1vn1jk2giap8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448002872241:android:89388216cfa37a27",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.SpeedMathChallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448002872241-irakhgtev7sluvlkt0ldqfpbffpu3vp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.SpeedMathChallenge",
+            "certificate_hash": "1fd47c310ad77375b33a8748cb3a3991c9cdb0bb"
+          }
+        },
+        {
+          "client_id": "448002872241-2371d35kvrbvapqpg2ku1vn1jk2giap8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2Qej2sjFV7zqRwezzQDs01UOfR-NvNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448002872241-2371d35kvrbvapqpg2ku1vn1jk2giap8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
